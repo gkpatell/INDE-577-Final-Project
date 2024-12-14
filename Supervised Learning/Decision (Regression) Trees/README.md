@@ -1,14 +1,14 @@
-#README for the Project
-##The project includes:
+# README for the Project
+## The project includes:
 
-###Implementation:
+### Implementation:
 - A Decision Tree Regressor to predict house prices using the California Housing Dataset.
 - Hyperparameter tuning using GridSearchCV.
 
-###Performance Analysis:
+### Performance Analysis:
 - Training and testing metrics with error analysis.
 - Visualizations of actual vs. predicted values, feature importances, and residuals.
 
-###Structure:
+### Structure:
 - Pythonic, modular, and well-documented code.
 - Saved model and results for reproducibility.
