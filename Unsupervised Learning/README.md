@@ -44,10 +44,10 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 ## Repository Structure
 
-- `kmeans_clustering.py`: Implementation of K-Means clustering.
-- `dbscan_clustering.py`: Implementation of DBSCAN clustering.
-- `pca.py`: Implementation of Principal Component Analysis (PCA).
-- `autoencoders.py`: Implementation of autoencoders for dimensionality reduction.
+- `USL_KMC.ipynb`: Implementation of K-Means clustering.
+- `USL_DBSCAN.ipynb`: Implementation of DBSCAN clustering.
+- `USL_PCA.ipynb`: Implementation of Principal Component Analysis (PCA).
+- `USL_SVD.ipynb`: Implementation of autoencoders for dimensionality reduction.
 
 ## How to Use
 
