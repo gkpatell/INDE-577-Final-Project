@@ -1,1 +1,2 @@
-
+Customers database as found in Malls to study their behaviours
+Climate Data across the globe of various cities to study the climate differences.
