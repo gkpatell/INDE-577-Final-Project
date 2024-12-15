@@ -4,7 +4,7 @@ This repository showcases my final project for CMOR 438/INDE 577: Data Science &
 - Repository Structure
   The repository is organized into two main directories:
     - Supervised Learning: Contains implementations of:
-      - [The Perceptron](gkpatell/Supervised Learning/The Perceptron/SL_Perceptron.ipynb)
+      - [The Perceptron](https://github.com/gkpatell/Supervised Learning/The Perceptron/SL_Perceptron.ipynb)
       - [Linear Regression](gkpatell/Supervised Learning/Linear Regression/SL_Linear_Regression.ipynb)
       - [Logistic Regression](gkpatell/Supervised Learning/Logistic Regression/SL_Logistic_Regression.ipynb)
       - [Neural Networks](gkpatell/Supervised Learning/Neural Networks/SL_Neural_Networks.ipynb)
