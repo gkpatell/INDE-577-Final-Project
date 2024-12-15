@@ -1,3 +1,5 @@
+#K-Means Clustering Project
+
 The generated "Clusters of Customers" plot shows the distribution of the 5 clusters. A sensible interpretation for the mall customer segments can be:
 
 - Cluster 1. Customers with medium annual income and medium annual spend
