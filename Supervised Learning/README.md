@@ -1,6 +1,6 @@
 # Introduction to Supervised Learning
 
-Supervised learning is a fundamental branch of machine learning where a model learns to make predictions or decisions based on labeled data. In this type of learning, the training dataset consists of input-output pairs where the input data (“features”) is associated with corresponding output labels (“targets”). The primary goal of supervised learning is to train a model that can generalize well to unseen data and make accurate predictions.
+- Supervised learning is a fundamental branch of machine learning where a model learns to make predictions or decisions based on labeled data. In this type of learning, the training dataset consists of input-output pairs where the input data (“features”) is associated with corresponding output labels (“targets”). The primary goal of supervised learning is to train a model that can generalize well to unseen data and make accurate predictions.
 <picture> <img src = "https://miro.medium.com/v2/resize:fit:1200/1*fq4smdRhVA2ZL6dxrikbKg.jpeg"> </picture>
 ---
 
