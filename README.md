@@ -11,7 +11,7 @@ This repository showcases my final project for CMOR 438/INDE 577: Data Science &
       - [K Nearest Neighbors](gkpatell/Supervised Learning/K Nearest Neighbor/SL_K_Nearest_Neighbor.ipynb)
       - [Decision Trees/Regression Trees](gkpatell/Supervised Learning/Decision (Regression) Trees/SL_Decision_Trees.ipynb]
       - [Random Forests](gkpatell/Supervised Learning/Random Forest/SL_Random_Forest.ipynb)
-      - [Other Ensemble Methods](gkpatell/Supervised Learning/Other Ensemble Methods/SL_OEMS.ipynb), including Boosting
+      - [Other Ensemble Methods](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/Other%20Ensemble%20Methods/SL_OEMS.ipynb), including Boosting
 
     - Unsupervised Learning: Includes implementations of:
       - K-Means Clustering
