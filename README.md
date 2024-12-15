@@ -4,14 +4,14 @@ This repository showcases my final project for CMOR 438/INDE 577: Data Science &
 - Repository Structure
   The repository is organized into two main directories:
     - Supervised Learning: Contains implementations of:
-      - The Perceptron
-      - Linear Regression
-      - Logistic Regression
-      - Neural Networks
-      - K Nearest Neighbors
-      - Decision Trees / Regression Trees
-      - Random Forests
-      - Other Ensemble Methods, including Boosting
+      - [The Perceptron](gkpatell/Supervised Learning/The Perceptron/SL_Perceptron.ipynb)
+      - [Linear Regression](gkpatell/Supervised Learning/Linear Regression/SL_Linear_Regression.ipynb)
+      - [Logistic Regression](gkpatell/Supervised Learning/Logistic Regression/SL_Logistic_Regression.ipynb)
+      - [Neural Networks](gkpatell/Supervised Learning/Neural Networks/SL_Neural_Networks.ipynb)
+      - [K Nearest Neighbors](gkpatell/Supervised Learning/K Nearest Neighbor/SL_K_Nearest_Neighbor.ipynb)
+      - [Decision Trees/Regression Trees](gkpatell/Supervised Learning/Decision (Regression) Trees/SL_Decision_Trees.ipynb]
+      - [Random Forests](gkpatell/Supervised Learning/Random Forest/SL_Random_Forest.ipynb)
+      - [Other Ensemble Methods](gkpatell/Supervised Learning/Other Ensemble Methods/SL_OEMS.ipynb), including Boosting
 
     - Unsupervised Learning: Includes implementations of:
       - K-Means Clustering
