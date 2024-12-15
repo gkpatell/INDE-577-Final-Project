@@ -1,6 +1,7 @@
 # INDE-577-Final-Project
 This repository showcases my final project for CMOR 438/INDE 577: Data Science &amp; Machine Learning, under the guidance of Dr. Randy R. Davila. The project demonstrates my understanding of key supervised and unsupervised learning algorithms and their implementation on unique datasets, adhering to real-world applications.
 
+<picture> <srcset="https://www.sudeep.co/images/post_images/2018-02-09-Understanding-the-Data-Science-Lifecycle/chart.png"> </picture>
 - Repository Structure
   The repository is organized into two main directories:
     - Supervised Learning: Contains implementations of:
