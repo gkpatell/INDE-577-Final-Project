@@ -1,7 +1,7 @@
 # K-Nearest Neighbors (KNN) Classifier on Wine Quality Dataset
 
 ## Project Overview
-	This project implements the K-Nearest Neighbors (KNN) algorithm on the Wine Quality Dataset. The goal is to classify wines as "Good" or "Bad" based on their physicochemical properties.
+- This project implements the K-Nearest Neighbors (KNN) algorithm on the Wine Quality Dataset. The goal is to classify wines as "Good" or "Bad" based on their physicochemical properties.
 
 ## Key Features
   - Utilizes the Wine Quality Dataset from the UCI ML Repository.
