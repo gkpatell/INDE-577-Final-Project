@@ -4,20 +4,20 @@ This repository showcases my final project for CMOR 438/INDE 577: Data Science &
 - Repository Structure
   The repository is organized into two main directories:
     - Supervised Learning: Contains implementations of:
-      - [The Perceptron](https://github.com/gkpatell/Supervised Learning/The Perceptron/SL_Perceptron.ipynb)
-      - [Linear Regression](gkpatell/Supervised Learning/Linear Regression/SL_Linear_Regression.ipynb)
-      - [Logistic Regression](gkpatell/Supervised Learning/Logistic Regression/SL_Logistic_Regression.ipynb)
-      - [Neural Networks](gkpatell/Supervised Learning/Neural Networks/SL_Neural_Networks.ipynb)
-      - [K Nearest Neighbors](gkpatell/Supervised Learning/K Nearest Neighbor/SL_K_Nearest_Neighbor.ipynb)
-      - [Decision Trees/Regression Trees](gkpatell/Supervised Learning/Decision (Regression) Trees/SL_Decision_Trees.ipynb]
-      - [Random Forests](gkpatell/Supervised Learning/Random Forest/SL_Random_Forest.ipynb)
+      - [The Perceptron](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/The%20Perceptron/SL_Perceptron.ipynb)
+      - [Linear Regression](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/Linear%20Regression/SL_Linear_Regression.ipynb)
+      - [Logistic Regression](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/Logistic%20Regression/SL_Logistic_Regression.ipynb)
+      - [Neural Networks](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/Neural%20Networks/SL_Neural_Networks.ipynb)
+      - [K Nearest Neighbors](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/Neural%20Networks/SL_Neural_Networks.ipynb)
+      - [Decision Trees/Regression Trees](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/Decision%20(Regression)%20Trees/SL_Decision_Trees.ipynb)
+      - [Random Forests](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/Random%20Forest/SL_Random_Forest.ipynb)
       - [Other Ensemble Methods](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Supervised%20Learning/Other%20Ensemble%20Methods/SL_OEMS.ipynb), including Boosting
 
     - Unsupervised Learning: Includes implementations of:
-      - K-Means Clustering
-      - DBSCAN
-      - Principal Component Analysis (PCA)
-      - Image Compression with Singular Value Decomposition (SVD)
+      - [K-Means Clustering](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Unsupervised%20Learning/K-Means%20Clustering/USL_KMC.ipynb)
+      - [DBSCAN](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Unsupervised%20Learning/DBSCAN/USL_DBSCAN.ipynb)
+      - [Principal Component Analysis (PCA)](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Unsupervised%20Learning/PCA/USL_PCA.ipynb)
+      - Image Compression with [Singular Value Decomposition (SVD)](https://github.com/gkpatell/INDE-577-Final-Project/blob/main/Unsupervised%20Learning/Singular%20Value%20Decomposition%20(SVD)/USL_SVD.ipynb)
 
 - Project Objectives
   The primary goal of this project is to apply machine learning algorithms on datasets that differ from those used during lectures, demonstrating:
